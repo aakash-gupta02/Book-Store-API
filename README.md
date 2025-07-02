@@ -171,4 +171,7 @@ Includes **user authentication (JWT)**, **file-based storage**, **CRUD operation
 []
 ````
 
+Made with 💙 by [Aakash Gupta](https://github.com/aakash-gupta02)
+
+
 
